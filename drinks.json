@@ -1,0 +1,71 @@
+[
+    {
+        "Drin_Ean":6415600567824,
+        "Drink_name": "Starbucks Frappuccino coffee",
+        "Drink_size": "250ml",
+        "Drink_price": 2.59
+    },
+    {
+        "Drin_Ean":6430057690079,
+        "Drink_name": "Coca-Cola Lemon",
+        "Drink_size": "0.5 l",
+        "Drink_price": 2.99
+    },
+    {
+        "Drin_Ean":6415600560696,
+        "Drink_name": "Battery Juiced Breeze energiajuoma",
+        "Drink_size": "0.33 l",
+        "Drink_price": 2.29
+    },
+    {
+        "Drin_Ean":6415600555722,
+        "Drink_name": "Sprite",
+        "Drink_size": "0.5 l",
+        "Drink_price": 2.49
+    },
+    {
+        "Drin_Ean":6419800120018,
+        "Drink_name": "Teho Energiajuoma",
+        "Drink_size": "0.33 l",
+        "Drink_price": 1.65
+    },
+    {
+        "Drin_Ean":6419800120810,
+        "Drink_name": "Teho Kehoteho Mg energiajuoma",
+        "Drink_size": "0.33 l",
+        "Drink_price": 1.65
+    },
+    {
+        "Drin_Ean":6415600502108,
+        "Drink_name": "Coca-Cola 2-pack virvoitusjuoma",
+        "Drink_size": "0.5 l",
+        "Drink_price": 4.99
+    },
+    {
+        "Drin_Ean":6413605252851,
+        "Drink_name": "Hartwall Jaffa Mansikka-Sitruuna sokeriton virvoitusjuoma 6-pack",
+        "Drink_size": "0.33 l",
+        "Drink_price": 4.65
+    },
+    {
+        "Drin_Ean":6415600567824,
+        "Drink_name": "Fanta Sitruuna sokeriton virvoitusjuoma 24-pack",
+        "Drink_temp": "Cold",
+        "Drink_size": "0.33 l",
+        "Drink_price": 14.49
+    },
+    {
+        "Drin_Ean":3292482220015,
+        "Drink_name": "La Mortuacienne Citron virvoitusjuoma",
+        "Drink_temp": "Cold",
+        "Drink_size": "1 l",
+        "Drink_price": 7.99
+    },
+    {
+        "Drin_Ean":6430057690536,
+        "Drink_name": "AW Root Beer virvoitusjuoma",
+        "Drink_temp": "Cold",
+        "Drink_size": "0.355 l",
+        "Drink_price": 2.19
+    }
+]
