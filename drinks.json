@@ -1,12 +1,13 @@
 [
     {
-        "Drink_Ean":6430057690079,
+        "Drink_EAN":6430057690079,
         "Drink_name": "Coca-Cola Lemon",
         "Drink_size": "0.5 l",
         "Drink_price": 2.99,
         "Drink_Country_Of_Origin": "USA",
+        "Drink_bottle_Pawn":true,
         "Drink_Ecodes":
-            [{
+            {
                 "E951":"Aspartaami",
                 "E160a":"Karotenoidit",
                 "E414":"Arabikumi",
@@ -16,157 +17,161 @@
                 "E950":"Asesulfaami K",
                 "E445":"Puuhartsien glyseroliesterit",
                 "E202":"Kaliumsorbaatti"
-            }],
+            },
         "Drink_Importer": 
-            [{
+            {
                 "Importer_Name": "GLOBAL TRADE PARTNERS OY",
                 "Importer_Address": "HITSAAJANKATU 6, 00810 HELSINKI",
                 "Importer_Website": "",
                 "Importer_Phone": "+358 9 428337207"
-            }]
+            }
     },
     {
-        "Drink_Ean":6415600560696,
-        "Drink_name": "Battery Juiced Breeze energiajuoma",
+        "Drink_EAN":6415600560696,
+        "Drink_name": "Battery Juiced Breeze",
         "Drink_size": "0.33 l",
         "Drink_price": 2.29,
         "Drink_Country_Of_Origin": "Suomi",
+        "Drink_bottle_Pawn":true,
         "Drink_Ecodes":
-            [{
+            {
                 "E414":"Arabikumi",
                 "E330":"Sitruunahappo",
                 "E445":"Puuhartsien glyseroliesterit",
                 "E202":"Kaliumsorbaatti",
                 "E160a":"Karotenoidit"
-            }],
+            },
         "Drink_Importer": 
-            [{
+            {
                 "Importer_Name": "OY SINEBRYCHOFF AB",
                 "Importer_Address": "PL 87, 04201 KERAVA",
                 "Importer_Website": "www.sinebrychoff.fi",
                 "Importer_Phone": "+358 3 2451845"
-            }]
+            }
     },
     {
-        "Drink_Ean":6415600555722,
+        "Drink_EAN":6415600555722,
         "Drink_name": "Sprite",
         "Drink_size": "0.5 l",
         "Drink_price": 2.49,
         "Drink_Country_Of_Origin": "Suomi",
+        "Drink_bottle_Pawn":true,
         "Drink_Ecodes":
-            [{
+            {
                 "E331":"Natriumsitraatti",
                 "E330":"Sitruunahappo",
                 "E334":"L-Viinihappo"
-            }],
+            },
         "Drink_Importer": 
-            [
-                {
-                  "Importer_Name": "OY SINEBRYCHOFF AB",
-                  "Importer_Address": "PL 87, 04201 KERAVA",
-                  "Importer_Website": "www.sinebrychoff.fi",
-                  "Importer_Phone": "+358 3 2451845"
-                }
-            ]
+            {
+                "Importer_Name": "OY SINEBRYCHOFF AB",
+                "Importer_Address": "PL 87, 04201 KERAVA",
+                "Importer_Website": "www.sinebrychoff.fi",
+                "Importer_Phone": "+358 3 2451845"
+            }
+        
     },
     {
-        "Drink_Ean":6419800120018,
+        "Drink_EAN":6419800120018,
         "Drink_name": "Teho Energiajuoma",
         "Drink_size": "0.33 l",
         "Drink_price": 1.65,
         "Drink_Country_Of_Origin": "Suomi",
+        "Drink_bottle_Pawn":true,
         "Drink_Ecodes":
-            [{
+            {
                 "E330":"Sitruunahappo",
                 "E290":"Hiilidioksidi",
                 "E150d":"Ammoniumsulfiittimenetelmän sokerikulööri"
-            }],
+            },
         "Drink_Importer": 
-            [
-                {
-                  "Importer_Name": "Olvi Oyj",
-                  "Importer_Address": "Olvitie I-IV, 74100 Iisalmi",
-                  "Importer_Website": "www.olvi.fi",
-                  "Importer_Phone": "+358 290001050"
-                }
-            ]
+            {
+                "Importer_Name": "Olvi Oyj",
+                "Importer_Address": "Olvitie I-IV, 74100 Iisalmi",
+                "Importer_Website": "www.olvi.fi",
+                "Importer_Phone": "+358 290001050"
+            }
     },
     {
-        "Drink_Ean":6419800120810,
+        "Drink_EAN":6419800120810,
         "Drink_name": "Teho Kehoteho Mg energiajuoma",
         "Drink_size": "0.33 l",
         "Drink_price": 1.65,
         "Drink_Country_Of_Origin":"Suomi",
+        "Drink_bottle_Pawn":false,
         "Drink_Ecodes":
-            [{
+            {
                 "E330":"Sitruunahappo",
                 "E290":"Hiilidioksidi",
                 "E260":"Etikkahappo",
                 "E955":"Sukraloosi",
                 "E331":"Natriumsitraatti",
                 "E202":"Kaliumsorbaatti"
-            }],
+            },
         "Drink_Importer":
-            [{
+            {
                 "Importer_Name":"Olvi Oyj",
                 "Importer_Address":"Olvitie I-IV, 74100 Iisalmi",
                 "Importer_Website":"www.olvi.fi",
                 "Importer_Phone":"+358 290001050"
-            }]
+            }
     },
     {
-        "Drink_Ean":6415600502108,
+        "Drink_EAN":6415600502108,
         "Drink_name": "Coca-Cola 2-pack virvoitusjuoma",
         "Drink_size": "0.5 l",
         "Drink_price": 4.99,
         "Drink_Country_Of_Origin":"Suomi",
+        "Drink_bottle_Pawn":false,
         "Drink_Ecodes":
-            [{
+            {
                 "E150d":"Ammoniumsulfiittimenetelmän sokerikulööri",
                 "E950":"Asesulfaami K",
                 "E331":"Natriumsitraatti",
                 "E951":"Aspartaami",
                 "E338":"Fosforihappo"
-            }],
+            },
         "Drink_Importer":
-            [{
+            {
                 "Importer_Name":"OY SINEBRYCHOFF AB",
                 "Importer_Address":"PL 87, 04201 KERAVA",
                 "Importer_Website":"www.sinebrychoff.fi",
                 "Importer_Phone":"+358 3 2451845"
-            }]
+            }
     },
     {
-        "Drink_Ean":6413605252851,
-        "Drink_name": "Hartwall Jaffa Mansikka-Sitruuna sokeriton virvoitusjuoma 6-pack",
+        "Drink_EAN":6413605252851,
+        "Drink_name": "Hartwall Jaffa Man-Sitr 6-pack",
         "Drink_size": "0.33 l",
         "Drink_price": 4.65,
         "Drink_Country_Of_Origin":"Suomi",
+        "Drink_bottle_Pawn":false,
         "Drink_Ecodes":
-            [{
+            {
                 "E414":"Arabikumi",
                 "E955":"Sukraloosi",
                 "E202":"Kaliumsorbaatti",
                 "E330":"Sitruunahappo",
                 "E950":"Asesulfaami K"
-            }],
+            },
         "Drink_Importer":
-            [{
+            {
                 "Importer_Name":"OY HARTWALL AB",
                 "Importer_Address":"HIOMOTIE 32, 00380 HELSINKI",
                 "Importer_Website":"www.bop.fi",
                 "Importer_Phone":"+358 (0) 44 272 3437"
-            }]
+            }
     },
     {
-        "Drink_Ean":6415600567824,
-        "Drink_name": "Fanta Sitruuna sokeriton virvoitusjuoma 24-pack",
+        "Drink_EAN":6415600567824,
+        "Drink_name": "Fanta Sitruuna sokeriton 24-pack",
         "Drink_temp": "Cold",
         "Drink_size": "0.33 l",
         "Drink_price": 14.49,
         "Drink_Country_Of_Origin":"Suomi",
+        "Drink_bottle_Pawn":false,
         "Drink_Ecodes":
-            [{
+            {
                 "E951":"Aspartaami",
                 "E160a":"Karotenoidit",
                 "E414":"Arabikumi",
@@ -176,59 +181,59 @@
                 "E950":"Asesulfaami K",
                 "E445":"Puuhartsien glyseroliesterit",
                 "E202":"Kaliumsorbaatti"
-            }],
+            },
         "Drink_Importer":
-            [{
+            {
                 "Importer_Name":"OY SINEBRYCHOFF AB",
                 "Importer_Address":"PL 87, 04201 KERAVA",
                 "Importer_Website":"www.sinebrychoff.fi",
                 "Importer_Phone":"+358 3 2451845"
-            }]
+            }
     },
     {
-        "Drink_Ean":3292482220015,
-        "Drink_name": "La Mortuacienne Citron virvoitusjuoma",
-        "Drink_temp": "Cold",
+        "Drink_EAN":3292482220015,
+        "Drink_name": "La Mortuacienne Citron",
         "Drink_size": "1 l",
         "Drink_price": 7.99,
         "Drink_Country_Of_Origin":"Ranska",
+        "Drink_bottle_Pawn":true,
         "Drink_Ecodes":
-            [{
+            {
                 "E330":"Sitruunahappo",
                 "E445":"Puuhartsien glyseroliesterit",
                 "E150d":"Ammoniumsulfiittimenetelmän sokerikulööri",
                 "E444":"Sakkaroosiasetaatti-isobutyraatti (SAIB)",
                 "E300":"Askorbiinihappo",
                 "E160e":"Beta-apo-8''-karotenaali (C30)"
-            }],
+            },
         "Drink_Importer":
-            [{
+            {
                 "Importer_Name":"Bop Oy",
                 "Importer_Address":"Fredrika Runebergin katu 2 A, FI 06100 Porvoo Finland",
                 "Importer_Website":"www.bop.fi",
                 "Importer_Phone":"+358 (0) 44 272 3437"
-            }]
+            }
     },
     {
-        "Drink_Ean":6430057690536,
+        "Drink_EAN":6430057690536,
         "Drink_name": "AW Root Beer virvoitusjuoma",
-        "Drink_temp": "Cold",
         "Drink_size": "0.355 l",
         "Drink_price": 2.19,
         "Drink_Country_Of_Origin":"USA",
+        "Drink_bottle_Pawn":false,
         "Drink_Ecodes":
-            [{
+            {
                 "E150d":"Ammoniumsulfiittimenetelmän sokerikulööri",
                 "E330":"Sitruunahappo",
                 "E211":"Natriumbentsoaatti",
                 "E999":"Kvillauute"
-            }],
+            },
         "Drink_Importer":
-            [{
+            {
                 "Importer_Name":"GLOBAL TRADE PARTNERS OY",
                 "Importer_Address":"HITSAAJANKATU 6, 00810 HELSINKI",
                 "Importer_Website":"",
                 "Importer_Phone":"+358 9 428337207"
-            }]
+            }
     }
 ]
