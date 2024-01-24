@@ -1,23 +1,51 @@
 [
     {
         "Drink_EAN":6430057690079,
-        "Drink_name": "Coca-Cola Lemon",
+        "Drink_name": "Coca-Cola Vanilla",
         "Drink_size": "0.5 l",
         "Drink_price": 2.99,
         "Drink_Country_Of_Origin": "USA",
         "Drink_bottle_Pawn":true,
+        "image":"images/6430057690079.png",
         "Drink_Ecodes":
-            {
-                "E951":"Aspartaami",
-                "E160a":"Karotenoidit",
-                "E414":"Arabikumi",
-                "E330":"Sitruunahappo",
-                "E300":"Askorbiinihappo",
-                "E331":"Natriumsitraatti",
-                "E950":"Asesulfaami K",
-                "E445":"Puuhartsien glyseroliesterit",
-                "E202":"Kaliumsorbaatti"
-            },
+                [
+                    {
+                        "Code":"E951",
+                        "Name":"Aspartaami"
+                    },
+                    {
+                        "Code":"E160a",
+                        "Name":"Karotenoidit"
+                    },
+                    {
+                        "Code":"E414",
+                        "Name":"Arabikumi"
+                    },
+                    {
+                        "Code":"E330",
+                        "Name":"Sitruunahappo"
+                    },
+                    {
+                        "Code":"E300",
+                        "Name":"Askorbiinihappo"
+                    },
+                    {
+                        "Code":"E331",
+                        "Name":"Natriumsitraatti"
+                    },
+                    {
+                        "Code":"E950",
+                        "Name":"Asesulfaami"
+                    },
+                    {
+                        "Code":"E445",
+                        "Name":"Puuhartsien glyseroliesterit"
+                    },
+                    {
+                        "Code":"E202",
+                        "Name":"Kaliumsorbaatti"
+                    }
+                ],
         "Drink_Importer": 
             {
                 "Importer_Name": "GLOBAL TRADE PARTNERS OY",
@@ -33,14 +61,31 @@
         "Drink_price": 2.29,
         "Drink_Country_Of_Origin": "Suomi",
         "Drink_bottle_Pawn":true,
+        "image":"images/6415600560696.png",
         "Drink_Ecodes":
-            {
-                "E414":"Arabikumi",
-                "E330":"Sitruunahappo",
-                "E445":"Puuhartsien glyseroliesterit",
-                "E202":"Kaliumsorbaatti",
-                "E160a":"Karotenoidit"
-            },
+            [
+
+                {
+                    "Code":"E414",
+                    "Name":"Arabikumi"
+                },
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E445",
+                    "Name":"Puuhartsien glyseroliesterit"
+                },
+                {
+                    "Code":"E202",
+                    "Name":"Kaliumsorbaatti"
+                },
+                {
+                    "Code":"E160a",
+                    "Name":"Karotenoidit"
+                }
+            ],
         "Drink_Importer": 
             {
                 "Importer_Name": "OY SINEBRYCHOFF AB",
@@ -56,12 +101,22 @@
         "Drink_price": 2.49,
         "Drink_Country_Of_Origin": "Suomi",
         "Drink_bottle_Pawn":true,
+        "image":"images/6415600555722.png",
         "Drink_Ecodes":
-            {
-                "E331":"Natriumsitraatti",
-                "E330":"Sitruunahappo",
-                "E334":"L-Viinihappo"
-            },
+            [   
+                {
+                    "Code":"E331",
+                    "Name":"Natriumsitraatti"
+                },
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E334",
+                    "Name":"L-Viinihappo"
+                }
+            ],
         "Drink_Importer": 
             {
                 "Importer_Name": "OY SINEBRYCHOFF AB",
@@ -78,12 +133,22 @@
         "Drink_price": 1.65,
         "Drink_Country_Of_Origin": "Suomi",
         "Drink_bottle_Pawn":true,
+        "image":"images/6419800120018.png",
         "Drink_Ecodes":
-            {
-                "E330":"Sitruunahappo",
-                "E290":"Hiilidioksidi",
-                "E150d":"Ammoniumsulfiittimenetelmän sokerikulööri"
-            },
+            [   
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E290",
+                    "Name":"Hiilidioksidi"
+                },
+                {
+                    "Code":"E150d",
+                    "Name":"Ammoniumsulfiittimenetelmän sokerikulööri"
+                }
+            ],
         "Drink_Importer": 
             {
                 "Importer_Name": "Olvi Oyj",
@@ -99,15 +164,38 @@
         "Drink_price": 1.65,
         "Drink_Country_Of_Origin":"Suomi",
         "Drink_bottle_Pawn":false,
+        "image":"images/6419800120810.png",
         "Drink_Ecodes":
-            {
-                "E330":"Sitruunahappo",
-                "E290":"Hiilidioksidi",
-                "E260":"Etikkahappo",
-                "E955":"Sukraloosi",
-                "E331":"Natriumsitraatti",
-                "E202":"Kaliumsorbaatti"
-            },
+            [   
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E290",
+                    "Name":"Hiilidioksidi"
+                },
+                {
+                    "Code":"E150d",
+                    "Name":"Ammoniumsulfiittimenetelmän sokerikulööri"
+                },
+                {
+                    "Code":"E260",
+                    "Name":"Etikkahappo"
+                },
+                {
+                    "Code":"E955",
+                    "Name":"Sukraloosi"
+                },
+                {
+                    "Code":"E331",
+                    "Name":"Natriumsitraatti"
+                },
+                {
+                    "Code":"E202",
+                    "Name":"Kaliumsorbaatti"
+                }
+            ],
         "Drink_Importer":
             {
                 "Importer_Name":"Olvi Oyj",
@@ -123,14 +211,30 @@
         "Drink_price": 4.99,
         "Drink_Country_Of_Origin":"Suomi",
         "Drink_bottle_Pawn":false,
+        "image":"images/6415600502108.png",
         "Drink_Ecodes":
-            {
-                "E150d":"Ammoniumsulfiittimenetelmän sokerikulööri",
-                "E950":"Asesulfaami K",
-                "E331":"Natriumsitraatti",
-                "E951":"Aspartaami",
-                "E338":"Fosforihappo"
-            },
+            [   
+                {
+                    "Code":"E150d",
+                    "Name":"Ammoniumsulfiittimenetelmän sokerikulööri"
+                },
+                {
+                    "Code":"E950",
+                    "Name":"Asesulfaami K"
+                },
+                {
+                    "Code":"E951",
+                    "Name":"Aspartaami"
+                },
+                {
+                    "Code":"E331",
+                    "Name":"Natriumsitraatti"
+                },
+                {
+                    "Code":"E338",
+                    "Name":"Fosforihappo"
+                }
+            ],
         "Drink_Importer":
             {
                 "Importer_Name":"OY SINEBRYCHOFF AB",
@@ -146,14 +250,30 @@
         "Drink_price": 4.65,
         "Drink_Country_Of_Origin":"Suomi",
         "Drink_bottle_Pawn":false,
+        "image":"images/6413605252851.png",
         "Drink_Ecodes":
-            {
-                "E414":"Arabikumi",
-                "E955":"Sukraloosi",
-                "E202":"Kaliumsorbaatti",
-                "E330":"Sitruunahappo",
-                "E950":"Asesulfaami K"
-            },
+            [   
+                {
+                    "Code":"E338",
+                    "Name":"Fosforihappo"
+                },
+                {
+                    "Code":"E955",
+                    "Name":"Sukraloosi"
+                },
+                {
+                    "Code":"E202",
+                    "Name":"Kaliumsorbaatti"
+                },
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E950",
+                    "Name":"Asesulfaami K"
+                }
+            ],
         "Drink_Importer":
             {
                 "Importer_Name":"OY HARTWALL AB",
@@ -170,18 +290,46 @@
         "Drink_price": 14.49,
         "Drink_Country_Of_Origin":"Suomi",
         "Drink_bottle_Pawn":false,
+        "image":"images/6415600567824.png",
         "Drink_Ecodes":
-            {
-                "E951":"Aspartaami",
-                "E160a":"Karotenoidit",
-                "E414":"Arabikumi",
-                "E330":"Sitruunahappo",
-                "E300":"Askorbiinihappo",
-                "E331":"Natriumsitraatti",
-                "E950":"Asesulfaami K",
-                "E445":"Puuhartsien glyseroliesterit",
-                "E202":"Kaliumsorbaatti"
-            },
+            [   
+                {
+                    "Code":"E951",
+                    "Name":"Aspartaami"
+                },
+                {
+                    "Code":"E160a",
+                    "Name":"Karotenoidit"
+                },
+                {
+                    "Code":"E414",
+                    "Name":"Arabikumi"
+                },
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E300",
+                    "Name":"Askorbiinihappo"
+                },
+                {
+                    "Code":"E331",
+                    "Name":"Natriumsitraatti"
+                },
+                {
+                    "Code":"E950",
+                    "Name":"Asesulfaami K"
+                },
+                {
+                    "Code":"E445",
+                    "Name":"Puuhartsien glyseroliesterit"
+                },
+                {
+                    "Code":"E202",
+                    "Name":"Kaliumsorbaatti"
+                }
+            ],
         "Drink_Importer":
             {
                 "Importer_Name":"OY SINEBRYCHOFF AB",
@@ -197,15 +345,34 @@
         "Drink_price": 7.99,
         "Drink_Country_Of_Origin":"Ranska",
         "Drink_bottle_Pawn":true,
+        "image":"images/3292482220015.jpg",
         "Drink_Ecodes":
-            {
-                "E330":"Sitruunahappo",
-                "E445":"Puuhartsien glyseroliesterit",
-                "E150d":"Ammoniumsulfiittimenetelmän sokerikulööri",
-                "E444":"Sakkaroosiasetaatti-isobutyraatti (SAIB)",
-                "E300":"Askorbiinihappo",
-                "E160e":"Beta-apo-8''-karotenaali (C30)"
-            },
+            [   
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E445",
+                    "Name":"Puuhartsien glyseroliesterit"
+                },
+                {
+                    "Code":"E150d",
+                    "Name":"Ammoniumsulfiittimenetelmän sokerikulööri"
+                },
+                {
+                    "Code":"E444",
+                    "Name":"Sakkaroosiasetaatti-isobutyraatti (SAIB"
+                },
+                {
+                    "Code":"E300",
+                    "Name":"Askorbiinihappo"
+                },
+                {
+                    "Code":"E160e",
+                    "Name":"Beta-apo-8''-karotenaali (C30)"
+                }
+            ],
         "Drink_Importer":
             {
                 "Importer_Name":"Bop Oy",
@@ -221,19 +388,143 @@
         "Drink_price": 2.19,
         "Drink_Country_Of_Origin":"USA",
         "Drink_bottle_Pawn":false,
+        "image":"images/6430057690536.png",
         "Drink_Ecodes":
-            {
-                "E150d":"Ammoniumsulfiittimenetelmän sokerikulööri",
-                "E330":"Sitruunahappo",
-                "E211":"Natriumbentsoaatti",
-                "E999":"Kvillauute"
-            },
+            [  
+                {
+                    "Code":"E150d",
+                    "Name":"Ammoniumsulfiittimenetelmän sokerikulööri"
+                },
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E331",
+                    "Name":"Natriumsitraatti"
+                },
+                {
+                    "Code":"E999",
+                    "Name":"Kvillauute"
+                }
+            ],
         "Drink_Importer":
             {
                 "Importer_Name":"GLOBAL TRADE PARTNERS OY",
                 "Importer_Address":"HITSAAJANKATU 6, 00810 HELSINKI",
                 "Importer_Website":"",
                 "Importer_Phone":"+358 9 428337207"
+            }
+    },
+    {
+        "Drink_EAN":6413605191600,
+        "Drink_name": "Mountain Dew No Sugar 6-pack",
+        "Drink_size": "0.33 l",
+        "image":"images/6413605191600.png","Drink_price": 6.19,
+        "Drink_Country_Of_Origin":"Suomi",
+        "Drink_bottle_Pawn":true,
+        
+        "Drink_Ecodes":
+            [  
+                {
+                    "Code":"E440",
+                    "Name":"Pektiini"
+                },
+                {
+                    "Code":"E955",
+                    "Name":"Sukraloosi"
+                },
+                {
+                    "Code":"E160a",
+                    "Name":"Karotenoidit"
+                },
+                {
+                    "Code":"E300",
+                    "Name":"Askorbiinihappo"
+                },
+                {
+                    "Code":"E445",
+                    "Name":"Puuhartsien glyseroliesterit"
+                },
+                {
+                    "Code":"E414",
+                    "Name":"Arabikumi"
+                },
+                {
+                    "Code":"E951",
+                    "Name":"Aspartaami"
+                },
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E950",
+                    "Name":"Asesulfaami"
+                },
+                {
+                    "Code":"E202",
+                    "Name":"Kaliumsorbaatti"
+                },
+                {
+                    "Code":"E332",
+                    "Name":"Kaliumsitraatti"
+                }
+            ],
+        "Drink_Importer":
+            {
+                "Importer_Name":"GLOBAL TRADE PARTNERS OY",
+                "Importer_Address":"HITSAAJANKATU 6, 00810 HELSINKI",
+                "Importer_Website":"",
+                "Importer_Phone":"+358 9 428337207"
+            }
+    },
+    {
+        "Drink_EAN":6410405176097,
+        "Drink_name": "Pirkka Punainen Jaffa",
+        "Drink_size": "1,5 l",
+        "Drink_price": 2.29,
+        "Drink_Country_Of_Origin":"Suomi",
+        "Drink_bottle_Pawn":true,
+        "image":"images/6410405176097.png",
+        "Drink_Ecodes":
+            [  
+                {
+                    "Code":"E120",
+                    "Name":"Karmiinit, kokkiniili,karmiinihappo"
+                },
+                {
+                    "Code":"E330",
+                    "Name":"Sitruunahappo"
+                },
+                {
+                    "Code":"E211",
+                    "Name":"Natriumbentsoaatti"
+                },
+                {
+                    "Code":"E202",
+                    "Name":"Kaliumsorbaatti"
+                },
+                {
+                    "Code":"E163",
+                    "Name":"Antosyaanit"
+                },
+                {
+                    "Code":"E414",
+                    "Name":"Arabikumi"
+                },
+                {
+                    "Code":"E445",
+                    "Name":"Puuhartsien glyseroliesterit"
+                }
+
+            ],
+        "Drink_Importer":
+            {
+                "Importer_Name":"Kesko Oyj",
+                "Importer_Address":"PL / PB 1, 00016 Kesko",
+                "Importer_Website":"www.kesko.fi",
+                "Importer_Phone":"+358 105 311"
             }
     }
 ]
